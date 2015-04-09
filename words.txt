@@ -1,0 +1,136 @@
+erheben: to raise, bring up, Anklage erheben: dava acmak
+-e Anklage: accusation, suclama
+-r Auslaeufer: kuyruk, dag etegi, foothills
+sowie: as well as, plus, ayrica
+sowieso: anyway, anyhow
+heutige: bugünkü
+-r Beiname: unvan
+-e Herkunft: origin
+v. Chr.: vor Christus
+n. Chr.: nach Christus
+besitzen: possess
+-e Ausdehnung: extent, expansion, orn: imparatorluk sinirlari
+dessen: whose, its, orn: unter dessen : under which, orn: anstatt dessen : instead/
+schliesslich: finally
+eingliedern: to incorporate, integrate
+eingerichtet: established, furnished, equipped
+-e Verdampfung: evaporation
+-r Dampf: steam, vapor
+-e Dichte: density, thickness, frequency, yogunluk, kesafet
+-s Formelzeichen: symbol
+-e Einheit: unit
+-e Größe: quantity, miktar, büyüklük
+jeweils: always, je-weils (every-time)
+ebenso: likewise
+-e Flüssigkeit: fluid, liquid
+-e Masse: mass, kütle
+-r Tropf: drip, droplet, cogn. drop, damla
+-r Stoffwert: material parameter
+-e Abbildung: figure
+sieden: to boil
+-e Übergang: transition
+übergehen: to change into, to overlook
+erste Näherung: immediate vicinity
+ansehen: to consider
+-e Aufnahme: intake, absorption
+-e Grundfläche: basal area
+bestimmt: definite
+-r Zeitabstand: period, interval
+-r Abstand: gap, distance
+man erhält: one observes (perceives), ... gözlemlendi
+-r Kennwert: parameter
+erfahrbar: tangible, experiencable
+berühren: to touch
+-r Dämmstoff: insulant
+-r Stoff: material
+wärmedämmen: to insulate against hear
+hingegen: whereas, bilakis
+empfinden: to feel, to sense
+unterliegen: to succumb, to underlie, daha az olmaz
+-r Vergleich: comparison
+-r Verlauf: process
+-e Oberfläche: surface
+weisen: göstermek, belirtmek, to point to
+deuten: to interpret, -e yormak
+aufweisen: to exhibit
+dementsprechend: accordingly, buna göre
+-r Wärmeübergangskoeffizient: heat transfer coefficient (HTC)
+-r Koeffizient: coefficient
+-e Wärmestromdichte: heat flux density (HFD)
+im Vergleich zu: with respect to
+-e Auswertung: analysis
+-e Schicht: layer, tabaka
+beschichten: kaplamak, to coat
+-e Beschichtung: kaplama, coating
+gering: az
+netzen, benetzen: ıslatmak
+voraus: ahead, upfront
+voraussetzen: to suppose, to presume
+verneinen: to deny, to negate
+verschlechtern: to deteriorate, kötüleşmek
+eher ... als: rather ... than
+unterstützen: to support, to back, to endorse, desteklemek, (unter + stützen)
+stützen: to support, cogn. strut??
+begünstigen: kayırmak
+fördern: to promote, to encourage, ilerletmek, cogn. to further
+fordern: to demand, to claim sth., to require
+benötigen: to require, to need, to lack, to want
+bedürfen: to require
+grundlegend: fundamental
+-e Untersuchung: investigation
+-e Eignung: uygunluk, suitability
+erhöhen: to increase
+verringern: to decrease, azaltmak, eksiltmek
+increase x decrease (active): erhöhen, verringern
+increase x decrease (passive): sich erhöhen, sich verringern
+abnehmen: (always active) to decrease, azalmak, (gunluk: kilo vermek)
+zunehmen: (always active) to increase, artmak, (gunluk: kilo almak)
+-e Blase: baloncuk
+verhalten: to retain, to contrain, to control
+-e Wirkung: effect
+bewirken: to effect
+-r Kapillarsog: capillary action
+-r Sog: suction, cogn. saugen
+saugen: to suck
+beinflussen durch: to be influenced by
+aufbauen: to establish
+pressen, auspressen: to squeeze out
+-r Zustand: condition
+aufbringen: to put up, kullanmak, koymak
+außerdem: besides, moreover
+gering benetzend: hydrophobic
+-e Strukturierung: patterning
+-e Bildung: formation, development, cogn. building, coll. education
+-r Überdruck: excess pressure, over pressure
+häufig: çoğu zaman, çoğunlukla
+pulsierend: pulsating
+austreten: to escape, to leak (fluid)
+treten: to kick (sb.,sth.), to step, cogn. to tread, basmak, tekmelemek
+eintreten: katılmak, içeri girmek, coll. firmaya katılmak
+-s Verhalten: davranış
+laut: -a göre, syn. gemäß
+treiben: cogn. to drive, to urge, to compel, to force
+betreiben: to operate, to conduct, to run
+-r Betrieb: operation, business, establishment, enterprise, factory, plant, organization
+-r Gleichstrom: direct current, continuous current
+-r Wechselstrom: alternating current
+sofern: as long as, sürece
+-r Gleichstrombetrieb: devamlı
+berechnen: to calculate
+-e Randbedingung: boundary condition
+-e Anfangsbedingung: initial condition
+bekannt: known
+hierfür: for it/this, bunun için
+-e Ablöse: replacement, compensation
+-e Seite: page, cogn. side
+keinerlei ...: no ... at all, absolutely no ...
+somit: consequently, thus, therefore, hence, so
+sowohl ... als auch: as well as
+-e Unterlage: document, bedding, support, bottom layer, writing pad
+-e Höhe: height, altitude
+gerade: just, even
+verlagern: to shift, to relocate, to displace
+rechnen: to calculate, to compute, cogn. to reckon
+wenden: to turn, to flip,
+anwenden: to apply, to deploy, to exert, to utilize
+verwenden: to use, to employ
