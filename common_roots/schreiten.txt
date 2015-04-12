@@ -1,0 +1,14 @@
+     1.   abschreiten
+     2.   ausschreiten
+     3.   beschreiten
+     4.   durchschreiten
+     5.   einherschreiten
+     6.   einschreiten
+     7.   Fortschreiten
+     8.   schreiten
+     9.   Umschreiten
+    10.   unterschreiten
+    11.   voranschreiten
+    12.   zurückschreiten
+    13.   Überschreiten
+    14.   überschreiten

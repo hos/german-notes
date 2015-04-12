@@ -1,0 +1,17 @@
+      1.   begründen
+      2.   Beweggründen
+      3.   entgründen
+      4.   ergründen
+      5.   Geschäftsgründen
+      6.   Gesundheitsgründen
+      7.   Gewissensgründen
+      8.   Gründen
+      9.   Krankheitsgründen
+    10.   mitbegründen
+    11.   neugründen
+    12.   Rechtsgründen
+    13.   Sicherheitsgründen
+    14.   umgründen
+    15.   Vereinfachungsgründen
+    16.   Weidegründen
+    17.   Zweckmäßigkeitsgründen

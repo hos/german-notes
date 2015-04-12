@@ -1,0 +1,20 @@
+
+
+     1.   abwischen
+     2.   aufwischen
+     3.   auswischen
+     4.   beiseitewischen
+     5.   dazwischen
+     6.   entwischen
+     7.   erwischen
+     8.   feuchtwischen
+     9.   fortwischen
+    10.   inzwischen
+    11.   nachwischen
+    12.   Nasswischen
+    13.   sauberwischen
+    14.   Staubwischen
+    15.   trockenwischen
+    16.   verwischen
+    17.   wegwischen
+    18.   wischen

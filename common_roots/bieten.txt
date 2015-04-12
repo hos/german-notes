@@ -1,0 +1,21 @@
+
+     1.   anbieten
+     2.   Anerbieten
+     3.   anzubieten
+     4.   aufbieten
+     5.   ausbieten
+     6.   Beweisanerbieten
+     7.   bieten
+     8.   darbieten
+     9.   entbieten
+    10.   erbieten
+    11.   feilbieten
+    12.   gebieten
+    13.   Minensperrgebieten
+    14.   mitbieten
+    15.   Randgebieten
+    16.   Sachgebieten
+    17.   Sichanbieten
+    18.   unterbieten
+    19.   verbieten
+    20.   überbieten

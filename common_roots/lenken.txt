@@ -1,0 +1,10 @@
+     1.   ablenken
+     2.   auslenken
+     3.   Einlenken
+     4.   gegenlenken
+     5.   herumlenken
+     6.   lenken
+     7.   Plenken
+     8.   Rollenken
+     9.   umlenken
+    10.   weglenken

@@ -1,0 +1,15 @@
+
+
+     1.   abspannen
+     2.   anspannen
+     3.   aufspannen
+     4.   ausspannen
+     5.   bespannen
+     6.   einspannen
+     7.   entspannen
+     8.   Nachspannen
+     9.   spannen
+    10.   umspannen
+    11.   verspannen
+    12.   vorspannen
+    13.   überspannen

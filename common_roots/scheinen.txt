@@ -1,0 +1,10 @@
+
+      1.   Aufscheinen
+      2.   bescheinen
+      3.   Durchscheinen
+      4.   Erscheinen
+      5.   Hindurchscheinen
+      6.   Nichterscheinen
+      7.   Optionsscheinen
+      8.   scheinen
+      9.   Wiedererscheinen

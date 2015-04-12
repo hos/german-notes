@@ -1,0 +1,15 @@
+
+     1.   abordnen
+     2.   anordnen
+     3.   beiordnen
+     4.   einordnen
+     5.   gleichordnen
+     6.   nachordnen
+     7.   neuordnen
+     8.   ordnen
+     9.   umordnen
+    10.   unterordnen
+    11.   verordnen
+    12.   wiedereinordnen
+    13.   zuordnen
+    14.   überordnen

@@ -1,0 +1,26 @@
+
+     1.   abbauen
+     2.   anbauen
+     3.   aufbauen
+     4.   ausbauen
+     5.   auseinanderbauen
+     6.   auszubauen
+     7.   Bauen
+     8.   bebauen
+     9.   Bombenbauen
+    10.   einbauen
+    11.   erbauen
+    12.   herumbauen
+    13.   mitaufbauen
+    14.   nachbauen
+    15.   Scheißebauen
+    16.   umbauen
+    17.   verbauen
+    18.   vorbauen
+    19.   weiterbauen
+    20.   wiederaufbauen
+    21.   wiedererbauen
+    22.   zubauen
+    23.   zurückbauen
+    24.   zusammenbauen
+    25.   überbauen

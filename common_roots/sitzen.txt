@@ -1,0 +1,23 @@
+
+     1.   absitzen
+     2.   Aktienbesitzen
+     3.   ansitzen
+     4.   aufeinandersitzen
+     5.   aufsitzen
+     6.   aussitzen
+     7.   besitzen
+     8.   dabeisitzen
+     9.   dasitzen
+    10.   drinsitzen
+    11.   einsitzen
+    12.   festsitzen
+    13.   gegenübersitzen
+    14.   herumsitzen
+    15.   Nachsitzen
+    16.   nebeneinandersitzen
+    17.   niedersitzen
+    18.   rumsitzen
+    19.   sitzen
+    20.   stillsitzen
+    21.   vorsitzen
+    22.   zusammensitzen

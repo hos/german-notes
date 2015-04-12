@@ -1,0 +1,10 @@
+
+      1.   abbefehlen
+      2.   anempfehlen
+      3.   befehlen
+      4.   empfehlen
+      5.   fehlen
+      6.   herbefehlen
+      7.   herumbefehlen
+      8.   verfehlen
+      9.   weiterempfehlen

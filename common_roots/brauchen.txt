@@ -1,0 +1,7 @@
+      1.   abrauchen
+      2.   aufbrauchen
+      3.   brauchen
+      4.   gebrauchen
+      5.   missbrauchen
+      6.   mißbrauchen
+      7.   verbrauchen

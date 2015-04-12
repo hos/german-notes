@@ -1,0 +1,12 @@
+
+     1.   ablehnen
+     2.   anlehnen
+     3.   auflehnen
+     4.   belehnen
+     5.   entlehnen
+     6.   hinauslehnen
+     7.   Kopflehnen
+     8.   lehnen
+     9.   rauslehnen
+    10.   Stuhllehnen
+    11.   Zurücklehnen

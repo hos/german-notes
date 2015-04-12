@@ -1,0 +1,21 @@
+
+
+     1.   auswirken
+     2.   bewirken
+     3.   durchwirken
+     4.   einwirken
+     5.   entgegenwirken
+     6.   erwirken
+     7.   Fernwirken
+     8.   Fortwirken
+     9.   gegenwirken
+    10.   mitwirken
+    11.   nachwirken
+    12.   rückwirken
+    13.   verwirken
+    14.   wechselwirken
+    15.   Weiterwirken
+    16.   wirken
+    17.   zerwirken
+    18.   zurückwirken
+    19.   zusammenwirken

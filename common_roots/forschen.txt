@@ -1,0 +1,7 @@
+
+
+      1.   ausforschen
+      2.   durchforschen
+      3.   erforschen
+      4.   forschen
+      5.   nachforschen

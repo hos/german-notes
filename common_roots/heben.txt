@@ -1,0 +1,24 @@
+
+     1.   abheben
+     2.   anheben
+     3.   aufheben
+     4.   Ausheben
+     5.   beheben
+     6.   einheben
+     7.   emporheben
+     8.   entheben
+     9.   erheben
+    10.   Gewichtheben
+    11.   Handerheben
+    12.   heben
+    13.   herausheben
+    14.   hervorheben
+    15.   hinausheben
+    16.   hochheben
+    17.   Kreuzheben
+    18.   Rumpfheben
+    19.   Schulterheben
+    20.   Seitheben
+    21.   Theben
+    22.   unterheben
+    23.   wegheben

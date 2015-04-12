@@ -1,0 +1,25 @@
+
+     1.   abschließen
+     2.   abzuschließen
+     3.   anschließen
+     4.   anzuschließen
+     5.   aufschließen
+     6.   ausschließen
+     7.   auszuschließen
+     8.   beischließen
+     9.   beschließen
+    10.   einschließen
+    11.   entschließen
+    12.   erschließen
+    13.   Handschließen
+    14.   kurzschließen
+    15.   rückschließen
+    16.   Schließen
+    17.   Sichanschließen
+    18.   Türenschließen
+    19.   umschließen
+    20.   verschließen
+    21.   wegschließen
+    22.   wiederverschließen
+    23.   zusammenschließen
+    24.   zuschließen

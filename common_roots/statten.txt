@@ -1,0 +1,11 @@
+
+     1.   abstatten
+     2.   ausstatten
+     3.   bestatten
+     4.   erstatten
+     5.   gestatten
+     6.   rückerstatten
+     7.   verstatten
+     8.   vonstatten
+     9.   wiedererstatten
+    10.   zurückerstatten

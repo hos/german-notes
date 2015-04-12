@@ -1,0 +1,12 @@
+
+     1.   andeuten
+     2.   ausdeuten
+     3.   bedeuten
+     4.   deuten
+     5.   fehldeuten
+     6.   hindeuten
+     7.   missdeuten
+     8.   mitbedeuten
+     9.   mißdeuten
+    10.   Umdeuten
+    11.   vorbedeuten

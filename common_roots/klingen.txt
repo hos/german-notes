@@ -1,0 +1,10 @@
+
+      1.   abklingen
+      2.   aufklingen
+      3.   Ausklingen
+      4.   erklingen
+      5.   klingen
+      6.   mitklingen
+      7.   nachklingen
+      8.   Ohrenklingen
+      9.   verklingen

@@ -1,0 +1,20 @@
+
+     1.   Anzeigen
+     2.   aufzeigen
+     3.   bezeigen
+     4.   Familienanzeigen
+     5.   Fernanzeigen
+     6.   Gegenanzeigen
+     7.   herumzeigen
+     8.   herzeigen
+     9.   Kleinanzeigen
+    10.   Kontaktanzeigen
+    11.   Privatanzeigen
+    12.   Stellenanzeigen
+    13.   Sterbeanzeigen
+    14.   Suchanzeigen
+    15.   Todesanzeigen
+    16.   Verlustanzeigen
+    17.   verzeigen
+    18.   vorzeigen
+    19.   zeigen

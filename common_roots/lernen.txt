@@ -1,0 +1,27 @@
+
+     1.   anlernen
+     2.   auslernen
+     3.   Auswendiglernen
+     4.   Beobachtungslernen
+     5.   E-Lernen
+     6.   Einsichtlernen
+     7.   Erfahrungslernen
+     8.   erlernen
+     9.   Identifikationslernen
+    10.   Imitationslernen
+    11.   kennenlernen
+    12.   kennenzulernen
+    13.   Lernen
+    14.   Maschinenlernen
+    15.   Modell-Lernen
+    16.   Modelllernen
+    17.   Nachahmungslernen
+    18.   Online-Lernen
+    19.   Rollenlernen
+    20.   schätzenlernen
+    21.   Sprachenlernen
+    22.   Spracherlernen
+    23.   Umlernen
+    24.   Verlernen
+    25.   Vermeidungslernen
+    26.   überlernen
