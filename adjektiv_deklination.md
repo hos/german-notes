@@ -3,7 +3,7 @@
 | Kasus     | Maskulinum        | Femininum       | Neutrum           | Plural             |
 |-----------|-------------------|-----------------|-------------------|--------------------|
 | Nominativ | der nette Mann    | die nette Frau  | das nette Kind    | die netten Kinder  |
-| Akkusativ | den netten Mann   | die nette Frau  | das nette Kind    | den netten Kindern |
+| Akkusativ | den netten Mann   | die nette Frau  | das nette Kind    | die netten Kinder  |
 | Dativ     | dem netten Mann   | der netten Frau | dem netten Kind   | den netten Kindern |
 | Genitiv   | des netten Mannes | der netten Frau | des netten Kindes | der netten Kinder  |
 
